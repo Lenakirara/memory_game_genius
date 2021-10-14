@@ -9,3 +9,7 @@ Nele utilizamos os conhecimentos em HTML, CSS e JavaScript para criar um jogo de
 ## Objetivo do Jogo
 
 Estimular a memorização referente a ordem em que as cores aparecem e em seguida reproduzir (clicando) na mesma ordem.
+
+##
+
+### O jogo ainda está em fase de construção e melhorias.
