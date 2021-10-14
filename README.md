@@ -12,4 +12,4 @@ Estimular a memorização referente a ordem em que as cores aparecem e em seguid
 
 ##
 
-### O jogo ainda está em fase de construção e melhorias.
+O jogo ainda está em fase de construção e melhorias.
